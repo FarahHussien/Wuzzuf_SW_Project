@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\bin\Debug\swe_project.exe.config
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\bin\Debug\swe_project.exe
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\bin\Debug\swe_project.pdb
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.Form1.resources
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.Properties.Resources.resources
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.csproj.CopyComplete
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.exe
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.pdb
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.Form2.resources
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.Form3.resources
+C:\Users\hp\Desktop\UnRar\swe_project[1]\swe_project\obj\Debug\swe_project.Form4.resources
